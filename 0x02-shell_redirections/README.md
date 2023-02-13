@@ -1,1 +1,1 @@
-read me
+0x02 shell i/o redirections
